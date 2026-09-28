@@ -1,0 +1,446 @@
+{
+    "2025-12-03": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-03",
+            "tempmax": 26.2,
+            "tempmin": 9.9,
+            "average_temp": 18.5,
+            "precipitation": 0.083,
+            "snow": 0.6,
+            "moonphase": 0.46
+        }
+    ],
+    "2025-12-04": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-04",
+            "tempmax": 18.0,
+            "tempmin": 9.9,
+            "average_temp": 13.4,
+            "precipitation": 0.088,
+            "snow": 1.1,
+            "moonphase": 0.5
+        }
+    ],
+    "2025-12-01": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-01",
+            "tempmax": 20.9,
+            "tempmin": 15.0,
+            "average_temp": 18.3,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.39
+        }
+    ],
+    "2025-12-02": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-02",
+            "tempmax": 21.8,
+            "tempmin": 17.1,
+            "average_temp": 19.3,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.42
+        }
+    ],
+    "2025-12-05": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-05",
+            "tempmax": 27.0,
+            "tempmin": 15.0,
+            "average_temp": 21.0,
+            "precipitation": 0.087,
+            "snow": 0.8,
+            "moonphase": 0.52
+        }
+    ],
+    "2025-12-06": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-06",
+            "tempmax": 23.1,
+            "tempmin": 12.8,
+            "average_temp": 18.7,
+            "precipitation": 0.024,
+            "snow": 0.0,
+            "moonphase": 0.56
+        }
+    ],
+    "2025-12-07": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-07",
+            "tempmax": 17.1,
+            "tempmin": 10.7,
+            "average_temp": 13.2,
+            "precipitation": 0.008,
+            "snow": 0.0,
+            "moonphase": 0.59
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-07",
+            "tempmax": 83.6,
+            "tempmin": 70.8,
+            "average_temp": 77.3,
+            "precipitation": 0.004,
+            "snow": 0.0,
+            "moonphase": 0.59
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-07",
+            "tempmax": 58.9,
+            "tempmin": 45.9,
+            "average_temp": 52.1,
+            "precipitation": 0.075,
+            "snow": 0.1,
+            "moonphase": 0.58
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-07",
+            "tempmax": 39.5,
+            "tempmin": 29.3,
+            "average_temp": 34.3,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.59
+        }
+    ],
+    "2025-12-08": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-08",
+            "tempmax": 21.8,
+            "tempmin": 9.4,
+            "average_temp": 15.6,
+            "precipitation": 0.02,
+            "snow": 0.0,
+            "moonphase": 0.62
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-08",
+            "tempmax": 83.0,
+            "tempmin": 74.0,
+            "average_temp": 77.7,
+            "precipitation": 0.834,
+            "snow": 0.0,
+            "moonphase": 0.62
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-08",
+            "tempmax": 56.0,
+            "tempmin": 49.7,
+            "average_temp": 53.5,
+            "precipitation": 0.032,
+            "snow": 0.5,
+            "moonphase": 0.62
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-08",
+            "tempmax": 31.9,
+            "tempmin": 17.0,
+            "average_temp": 23.7,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.62
+        }
+    ],
+    "2025-12-09": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-09",
+            "tempmax": 26.3,
+            "tempmin": 17.1,
+            "average_temp": 21.0,
+            "precipitation": 0.173,
+            "snow": 0.0,
+            "moonphase": 0.66
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-09",
+            "tempmax": 74.9,
+            "tempmin": 70.1,
+            "average_temp": 72.8,
+            "precipitation": 0.17,
+            "snow": 0.0,
+            "moonphase": 0.66
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-09",
+            "tempmax": 57.1,
+            "tempmin": 50.4,
+            "average_temp": 54.9,
+            "precipitation": 0.254,
+            "snow": 0.1,
+            "moonphase": 0.65
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-09",
+            "tempmax": 32.4,
+            "tempmin": 13.9,
+            "average_temp": 23.5,
+            "precipitation": 0.0,
+            "snow": 0.2,
+            "moonphase": 0.66
+        }
+    ],
+    "2025-12-10": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-10",
+            "tempmax": 28.5,
+            "tempmin": 20.0,
+            "average_temp": 23.9,
+            "precipitation": 0.063,
+            "snow": 0.0,
+            "moonphase": 0.69
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-10",
+            "tempmax": 75.8,
+            "tempmin": 71.7,
+            "average_temp": 74.0,
+            "precipitation": 0.032,
+            "snow": 0.0,
+            "moonphase": 0.69
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-10",
+            "tempmax": 54.1,
+            "tempmin": 44.6,
+            "average_temp": 50.1,
+            "precipitation": 0.0,
+            "snow": 0.2,
+            "moonphase": 0.68
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-10",
+            "tempmax": 44.9,
+            "tempmin": 31.5,
+            "average_temp": 38.2,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.69
+        }
+    ],
+    "2025-12-11": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-11",
+            "tempmax": 29.2,
+            "tempmin": 17.3,
+            "average_temp": 24.0,
+            "precipitation": 0.04,
+            "snow": 4.0,
+            "moonphase": 0.75
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-11",
+            "tempmax": 74.6,
+            "tempmin": 68.3,
+            "average_temp": 72.2,
+            "precipitation": 0.044,
+            "snow": 0.0,
+            "moonphase": 0.75
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-11",
+            "tempmax": 50.3,
+            "tempmin": 40.7,
+            "average_temp": 45.6,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.75
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-11",
+            "tempmax": 40.0,
+            "tempmin": 28.8,
+            "average_temp": 36.0,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.75
+        }
+    ],
+    "2025-12-12": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-12",
+            "tempmax": 37.8,
+            "tempmin": 28.1,
+            "average_temp": 33.4,
+            "precipitation": 0.004,
+            "snow": 0.3,
+            "moonphase": 0.76
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-12",
+            "tempmax": 76.9,
+            "tempmin": 69.2,
+            "average_temp": 73.3,
+            "precipitation": 0.004,
+            "snow": 0.0,
+            "moonphase": 0.76
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-12",
+            "tempmax": 52.8,
+            "tempmin": 46.3,
+            "average_temp": 50.9,
+            "precipitation": 0.064,
+            "snow": 0.0,
+            "moonphase": 0.75
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-12",
+            "tempmax": 35.1,
+            "tempmin": 26.5,
+            "average_temp": 29.9,
+            "precipitation": 0.354,
+            "snow": 0.5,
+            "moonphase": 0.76
+        }
+    ],
+    "2025-12-13": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-13",
+            "tempmax": 38.0,
+            "tempmin": 36.8,
+            "average_temp": 37.4,
+            "precipitation": 0.008,
+            "snow": 3.0,
+            "moonphase": 0.79
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-13",
+            "tempmax": 75.5,
+            "tempmin": 70.2,
+            "average_temp": 72.5,
+            "precipitation": 0.052,
+            "snow": 0.0,
+            "moonphase": 0.79
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-13",
+            "tempmax": 51.5,
+            "tempmin": 46.8,
+            "average_temp": 48.9,
+            "precipitation": 0.012,
+            "snow": 0.0,
+            "moonphase": 0.78
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-13",
+            "tempmax": 30.8,
+            "tempmin": 22.0,
+            "average_temp": 26.1,
+            "precipitation": 0.35,
+            "snow": 0.0,
+            "moonphase": 0.79
+        }
+    ],
+    "2025-12-14": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-14",
+            "tempmax": 37.8,
+            "tempmin": 30.6,
+            "average_temp": 34.5,
+            "precipitation": 0.008,
+            "snow": 1.0,
+            "moonphase": 0.82
+        },
+        {
+            "location": "miami, FL",
+            "datetime": "2025-12-14",
+            "tempmax": 73.8,
+            "tempmin": 68.6,
+            "average_temp": 71.2,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.82
+        },
+        {
+            "location": "Detriot, MI",
+            "datetime": "2025-12-14",
+            "tempmax": 50.4,
+            "tempmin": 47.0,
+            "average_temp": 48.4,
+            "precipitation": 0.0,
+            "snow": 0.0,
+            "moonphase": 0.82
+        },
+        {
+            "location": "boston, MA",
+            "datetime": "2025-12-14",
+            "tempmax": 28.5,
+            "tempmin": 19.8,
+            "average_temp": 23.6,
+            "precipitation": 0.004,
+            "snow": 0.0,
+            "moonphase": 0.82
+        }
+    ],
+    "2025-12-15": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-15",
+            "tempmax": 29.9,
+            "tempmin": 20.6,
+            "average_temp": 23.4,
+            "precipitation": 0.032,
+            "snow": 3.8,
+            "moonphase": 0.86
+        }
+    ],
+    "2025-12-16": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-16",
+            "tempmax": 24.5,
+            "tempmin": 20.0,
+            "average_temp": 22.3,
+            "precipitation": 0.024,
+            "snow": 7.0,
+            "moonphase": 0.89
+        }
+    ],
+    "2025-12-17": [
+        {
+            "location": "houghton, mi",
+            "datetime": "2025-12-17",
+            "tempmax": 22.4,
+            "tempmin": 19.1,
+            "average_temp": 20.7,
+            "precipitation": 0.028,
+            "snow": 4.0,
+            "moonphase": 0.92
+        }
+    ]
+}
